@@ -3,4 +3,4 @@ description:   web site for metazome.info hosted on github
 url:           http://metazome.github.io/base
 markdown:      rdiscount
 permalink:     pretty
-pygments:      true
+highlighter:   rouge

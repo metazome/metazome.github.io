@@ -1,6 +1,6 @@
-name:          portlet-style-guide
-description:   Guidelines for developing portlets
-url:           http://apetro.github.io/portlet-style-guide
+name:          metazome
+description:   web site for metazome.info hosted on github
+url:           http://metazome.github.io/base
 markdown:      rdiscount
 permalink:     pretty
 pygments:      true
